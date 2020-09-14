@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/aadhar/aadhar-service-new/aadhar-service/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/aadhar/aadhar-service-new/aadhar-service/dockerFile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/aadhar/aadhar-service-new/aadhar-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/aadhar/aadhar-service-new/aadhar-service/src/main/resources/logback-spring.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/aadhar/spring-batch/sudesh-batch/spring-batch-demo/src/main/java/com/demo/springbatch/config/SpringBatchConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/aadhar/spring-batch/sudesh-batch/spring-batch-demo/src/main/java/com/demo/springbatch/model/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/aadhar/spring-batch/sudesh-batch/spring-batch-demo/src/main/resources/outputData.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/aadhar/spring-batch/sudesh-batch/spring-batch-demo/src/main/resources/users.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
